@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, and thank you for stopping by!
+
+I'm Nathan, an upcoming second year computing science student at the University of Alberta.
 
 <!--
 **nathanlytang/nathanlytang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
