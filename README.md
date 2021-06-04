@@ -1,11 +1,12 @@
 ### 👋 Hi there, and thank you for stopping by!
 
-I'm Nathan, a second year computing science student at the University of Alberta in Edmonton, Canada.  I am interested in optimizing and bridging the gap between everyday and high-tech applications while looking for new ways to evolve and build software.  
+I'm Nathan, an upcoming third year computing science student at the University of Alberta in Edmonton, Canada.  I am interested in optimizing and bridging the gap between everyday and high-tech applications while looking for new ways to evolve and build software.  
 
 ##### About
 
 * My favourite technologies right now: `.js` `.ts` `Node.js`
-* Currently learning: `Django` `Heroku`
+* Currently building: A fullstack rideshare system with `Node.js`, `Express`, `React.js`, `PostgreSQL`
+<!--* Currently learning: `Django` `Heroku`-->
 
 <!--
 **nathanlytang/nathanlytang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
