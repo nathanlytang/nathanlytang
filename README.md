@@ -1,6 +1,6 @@
 ### 👋 Hi there, and thank you for stopping by!
 
-I'm Nathan, an upcoming third year computing science student at the University of Alberta in Edmonton, Canada.  I am interested in optimizing and bridging the gap between everyday and high-tech applications while looking for new ways to evolve and build software.  
+I'm Nathan, a third year computing science student at the University of Alberta in Edmonton, Canada.  I am interested in optimizing and bridging the gap between everyday and high-tech applications while looking for new ways to evolve and build software.  
 
 ##### About
 
