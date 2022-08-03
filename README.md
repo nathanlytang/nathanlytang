@@ -4,8 +4,8 @@ I'm Nathan, a fourth year computing science student at the University of Alberta
 
 ##### About
 
-* 🏢 Currently working at [Dotdash Meredith](https://www.dotdashmeredith.com) as a software developer intern working on ad technology
-* Currently building a fullstack rideshare system with `Node.js`, `Express`, `React`, `PostgreSQL`
+* 🏢 Currently interning at [Dotdash Meredith](https://www.dotdashmeredith.com) as a software developer working on ad technology
+* 🚙 Currently building a fullstack rideshare system with `Node.js`, `Express`, `React`, `PostgreSQL`
 
 <!--
 **nathanlytang/nathanlytang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
